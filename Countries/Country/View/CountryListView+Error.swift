@@ -7,14 +7,21 @@ extension CountryListView {
         var body: some View {
             VStack {
                 Image(systemName: "exclamationmark.triangle.fill")
-                    .foregroundColor(.ctyRawSienna)
+                    .resizable()
                     .scaledToFit()
-                    
+                    .frame(width: 48, height: 48, alignment: .center)
+                    .foregroundColor(.ctyRawSienna)
                 Text(title)
-                    .font(.title)
+                    .foregroundColor(.ctyGunMetal)
+                    .font(.ctyHeadline)
                 Text(message)
-                Spacer()
+                    .foregroundColor(.ctyGunMetal)
+                    .font(.ctyText)
             }
+            .padding()
+            .background(Color.white)
+            .cornerRadius(8)
+            .shadow(radius: 3)
         }
     }
 }

@@ -1,7 +1,7 @@
 import SwiftUI
 
 extension Color {
-    init(_ rgbValue: Int, alpha: CGFloat = 1) {
+    init(_ rgbValue: Int) {
         self.init(
             red: CGFloat((Float((rgbValue & 0xff0000) >> 16)) / 255.0),
             green: CGFloat((Float((rgbValue & 0x00ff00) >> 8)) / 255.0),

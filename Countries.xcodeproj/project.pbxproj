@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A339005A27C0094500D4482B /* Font+Patterns.swift in Sources */ = {isa = PBXBuildFile; fileRef = A339005927C0094500D4482B /* Font+Patterns.swift */; };
 		A3689B5227BAD64100F7C4B8 /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3689B5127BAD64100F7C4B8 /* AppCoordinator.swift */; };
 		A3689B5527BAD65500F7C4B8 /* AppDependencyInjector.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3689B5427BAD65500F7C4B8 /* AppDependencyInjector.swift */; };
 		A37891A027BAD462001596AF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A378919F27BAD462001596AF /* AppDelegate.swift */; };
@@ -54,6 +55,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A339005927C0094500D4482B /* Font+Patterns.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Font+Patterns.swift"; sourceTree = "<group>"; };
 		A3689B5127BAD64100F7C4B8 /* AppCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
 		A3689B5427BAD65500F7C4B8 /* AppDependencyInjector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDependencyInjector.swift; sourceTree = "<group>"; };
 		A378919C27BAD462001596AF /* Countries.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Countries.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -254,6 +256,7 @@
 			isa = PBXGroup;
 			children = (
 				A39A380227BD664800A3B8D3 /* Colors+Patterns.swift */,
+				A339005927C0094500D4482B /* Font+Patterns.swift */,
 			);
 			path = Patterns;
 			sourceTree = "<group>";
@@ -435,6 +438,7 @@
 				A37891E427BAD4D2001596AF /* APIClient.swift in Sources */,
 				A37891E827BAD4D2001596AF /* APIError.swift in Sources */,
 				A37891E627BAD4D2001596AF /* CountriesEndpoints.swift in Sources */,
+				A339005A27C0094500D4482B /* Font+Patterns.swift in Sources */,
 				A37891E027BAD4D2001596AF /* CountryListViewModel.swift in Sources */,
 				A37891A027BAD462001596AF /* AppDelegate.swift in Sources */,
 				A37891E727BAD4D2001596AF /* Endpoint.swift in Sources */,

@@ -34,3 +34,30 @@ struct CountryListView: View {
         }
     }
 }
+
+struct ScrollableStackView<Content: View>: View {
+    var content: Content
+    var showsIndicators: Bool
+    var alignment: HorizontalAlignment
+    var spacing: CGFloat?
+    
+    init(
+        showsIndicators: Bool = true,
+        alignment: HorizontalAlignment = .center,
+        spacing: CGFloat? = nil,
+        @ViewBuilder content: () -> Content
+    ) {
+        self.showsIndicators = showsIndicators
+        self.alignment = alignment
+        self.spacing = spacing
+        self.content = content()
+    }
+
+    var body: some View {
+        ScrollView(.vertical, showsIndicators: showsIndicators) {
+            VStack(alignment: alignment, spacing: spacing) {
+                content
+            }
+        }
+    }
+}
