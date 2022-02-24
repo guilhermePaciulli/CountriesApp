@@ -5,7 +5,7 @@ struct LoadingAnimationView: View {
     var body: some View {
         LottieSwiftUIView(
             name: "loading_world",
-            loopMode: .loop,
+            loopMode: .autoReverse,
             isAnimating: .constant(true)
         )
     }

@@ -1,0 +1,1410 @@
+[
+  {
+    "name": {
+      "common": "DR Congo",
+      "official": "Democratic Republic of the Congo",
+      "nativeName": {
+        "fra": {
+          "official": "République démocratique du Congo",
+          "common": "RD Congo"
+        },
+        "kon": {
+          "official": "Repubilika ya Kongo Demokratiki",
+          "common": "Repubilika ya Kongo Demokratiki"
+        },
+        "lin": {
+          "official": "Republiki ya Kongó Demokratiki",
+          "common": "Republiki ya Kongó Demokratiki"
+        },
+        "lua": {
+          "official": "Ditunga dia Kongu wa Mungalaata",
+          "common": "Ditunga dia Kongu wa Mungalaata"
+        },
+        "swa": {
+          "official": "Jamhuri ya Kidemokrasia ya Kongo",
+          "common": "Jamhuri ya Kidemokrasia ya Kongo"
+        }
+      }
+    },
+    "tld": [
+      ".cd"
+    ],
+    "cca2": "CD",
+    "ccn3": "180",
+    "cca3": "COD",
+    "cioc": "COD",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CDF": {
+        "name": "Congolese franc",
+        "symbol": "FC"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "43"
+      ]
+    },
+    "capital": [
+      "Kinshasa"
+    ],
+    "altSpellings": [
+      "CD",
+      "DR Congo",
+      "Congo-Kinshasa",
+      "Congo, the Democratic Republic of the",
+      "DRC"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala",
+      "lua": "Tshiluba",
+      "swa": "Swahili"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية الكونغو الديمقراطية",
+        "common": "الكونغو"
+      },
+      "ces": {
+        "official": "Demokratická republika Kongo",
+        "common": "DR Kongo"
+      },
+      "cym": {
+        "official": "Gweriniaeth Ddemocrataidd Congo",
+        "common": "Gweriniaeth Ddemocrataidd Congo"
+      },
+      "deu": {
+        "official": "Demokratische Republik Kongo",
+        "common": "Kongo (Dem. Rep.)"
+      },
+      "est": {
+        "official": "Kongo Demokraatlik Vabariik",
+        "common": "Kongo DV"
+      },
+      "fin": {
+        "official": "Kongon demokraattinen tasavalta",
+        "common": "Kongon demokraattinen tasavalta"
+      },
+      "fra": {
+        "official": "République démocratique du Congo",
+        "common": "Congo (Rép. dém.)"
+      },
+      "hrv": {
+        "official": "Demokratska Republika Kongo",
+        "common": "Kongo, Demokratska Republika"
+      },
+      "hun": {
+        "official": "Kongói Demokratikus Köztársaság",
+        "common": "Kongói Demokratikus Köztársaság"
+      },
+      "ita": {
+        "official": "Repubblica Democratica del Congo",
+        "common": "Congo (Rep. Dem.)"
+      },
+      "jpn": {
+        "official": "コンゴ民主共和国",
+        "common": "コンゴ民主共和国"
+      },
+      "kor": {
+        "official": "콩고 민주 공화국",
+        "common": "콩고 민주 공화국"
+      },
+      "nld": {
+        "official": "Democratische Republiek Congo",
+        "common": "Congo (DRC)"
+      },
+      "per": {
+        "official": "جمهوری دموکراتیک کنگو",
+        "common": "کنگو دموکراتیک"
+      },
+      "pol": {
+        "official": "Demokratyczna Republika Konga",
+        "common": "Demokratyczna Republika Konga"
+      },
+      "por": {
+        "official": "República Democrática do Congo",
+        "common": "República Democrática do Congo"
+      },
+      "rus": {
+        "official": "Демократическая Республика Конго",
+        "common": "Демократическая Республика Конго"
+      },
+      "slk": {
+        "official": "Konžská demokratická republika",
+        "common": "Kongo"
+      },
+      "spa": {
+        "official": "República Democrática del Congo",
+        "common": "Congo (Rep. Dem.)"
+      },
+      "swe": {
+        "official": "Demokratiska republiken Kongo",
+        "common": "Kongo-Kinshasa"
+      },
+      "urd": {
+        "official": "جمہوری جمہوریہ کانگو",
+        "common": "کانگو"
+      },
+      "zho": {
+        "official": "刚果民主共和国",
+        "common": "民主刚果"
+      }
+    },
+    "latlng": [
+      0,
+      25
+    ],
+    "landlocked": false,
+    "borders": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ],
+    "area": 2344858,
+    "demonyms": {
+      "eng": {
+        "f": "Congolese",
+        "m": "Congolese"
+      },
+      "fra": {
+        "f": "Congolaise",
+        "m": "Congolais"
+      }
+    },
+    "flag": "🇨🇩",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/KfhNVn6VqdZXWu8n9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192795"
+    },
+    "population": 89561404,
+    "gini": {
+      "2012": 42.1
+    },
+    "fifa": "COD",
+    "car": {
+      "signs": [
+        "CGO"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00",
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cd.png",
+      "svg": "https://flagcdn.com/cd.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cd.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cd.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -4.32,
+        15.3
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "North Macedonia",
+      "official": "Republic of North Macedonia",
+      "nativeName": {
+        "mkd": {
+          "official": "Република Северна Македонија",
+          "common": "Македонија"
+        }
+      }
+    },
+    "tld": [
+      ".mk"
+    ],
+    "cca2": "MK",
+    "ccn3": "807",
+    "cca3": "MKD",
+    "cioc": "MKD",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MKD": {
+        "name": "denar",
+        "symbol": "den"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "89"
+      ]
+    },
+    "capital": [
+      "Skopje"
+    ],
+    "altSpellings": [
+      "MK",
+      "The former Yugoslav Republic of Macedonia",
+      "Republic of North Macedonia",
+      "Macedonia, The Former Yugoslav Republic of",
+      "Република Северна Македонија"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "languages": {
+      "mkd": "Macedonian"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية شمال مقدونيا",
+        "common": "شمال مقدونيا"
+      },
+      "ces": {
+        "official": "Republika Severní Makedonie",
+        "common": "Severní Makedonie"
+      },
+      "cym": {
+        "official": "Republic of North Macedonia",
+        "common": "North Macedonia"
+      },
+      "deu": {
+        "official": "Republik Nordmazedonien",
+        "common": "Nordmazedonien"
+      },
+      "est": {
+        "official": "Põhja-Makedoonia Vabariik",
+        "common": "Põhja-Makedoonia"
+      },
+      "fin": {
+        "official": "Pohjois-Makedonian tasavalta",
+        "common": "Pohjois-Makedonia"
+      },
+      "fra": {
+        "official": "République de Macédoine du Nord",
+        "common": "Macédoine du Nord"
+      },
+      "hrv": {
+        "official": "Republika Sjeverna Makedonija",
+        "common": "Sjeverna Makedonija"
+      },
+      "hun": {
+        "official": "Észak-macedón Köztársaság",
+        "common": "Észak-Macedónia"
+      },
+      "ita": {
+        "official": "Repubblica di Macedonia del Nord",
+        "common": "Macedonia del Nord"
+      },
+      "jpn": {
+        "official": "北マケドニア共和国",
+        "common": "北マケドニア "
+      },
+      "kor": {
+        "official": "북마케도니아 공화국",
+        "common": "북마케도니아"
+      },
+      "nld": {
+        "official": "Republiek Noord-Macedonië",
+        "common": "Noord-Macedonië"
+      },
+      "per": {
+        "official": "جمهوری مقدونیه شمالی",
+        "common": "مقدونیه شمالی"
+      },
+      "pol": {
+        "official": "Republika Macedonii Północnej",
+        "common": "Macedonia Północna"
+      },
+      "por": {
+        "official": "República da Macedônia do Norte",
+        "common": "Macedónia do Norte"
+      },
+      "rus": {
+        "official": "Республика Северная Македония",
+        "common": "Северная Македония"
+      },
+      "slk": {
+        "official": "Severomacedónska republika",
+        "common": "Severné Macedónsko"
+      },
+      "spa": {
+        "official": "República de Macedonia del Norte",
+        "common": "Macedonia del Norte"
+      },
+      "swe": {
+        "official": "Republiken Nordmakedonien",
+        "common": "Nordmakedonien"
+      },
+      "urd": {
+        "official": "جمہوریہ مقدونیہ",
+        "common": "شمالی مقدونیہ"
+      },
+      "zho": {
+        "official": "北馬其頓共和國",
+        "common": "北馬其頓"
+      }
+    },
+    "latlng": [
+      41.83333333,
+      22
+    ],
+    "landlocked": true,
+    "borders": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "UNK",
+      "SRB"
+    ],
+    "area": 25713,
+    "demonyms": {
+      "eng": {
+        "f": "Macedonian",
+        "m": "Macedonian"
+      },
+      "fra": {
+        "f": "Macédonienne",
+        "m": "Macédonien"
+      }
+    },
+    "flag": "🇲🇰",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/53293"
+    },
+    "population": 2077132,
+    "gini": {
+      "2018": 33
+    },
+    "fifa": "MKD",
+    "car": {
+      "signs": [
+        "MK"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mk.png",
+      "svg": "https://flagcdn.com/mk.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mk.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mk.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        42,
+        21.43
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Tonga",
+      "official": "Kingdom of Tonga",
+      "nativeName": {
+        "eng": {
+          "official": "Kingdom of Tonga",
+          "common": "Tonga"
+        },
+        "ton": {
+          "official": "Kingdom of Tonga",
+          "common": "Tonga"
+        }
+      }
+    },
+    "tld": [
+      ".to"
+    ],
+    "cca2": "TO",
+    "ccn3": "776",
+    "cca3": "TON",
+    "cioc": "TGA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "TOP": {
+        "name": "Tongan paʻanga",
+        "symbol": "T$"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "76"
+      ]
+    },
+    "capital": [
+      "Nuku'alofa"
+    ],
+    "altSpellings": [
+      "TO"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": {
+      "eng": "English",
+      "ton": "Tongan"
+    },
+    "translations": {
+      "ara": {
+        "official": "مملكة تونغا",
+        "common": "تونغا"
+      },
+      "ces": {
+        "official": "Království Tonga",
+        "common": "Tonga"
+      },
+      "cym": {
+        "official": "Kingdom of Tonga",
+        "common": "Tonga"
+      },
+      "deu": {
+        "official": "Königreich Tonga",
+        "common": "Tonga"
+      },
+      "est": {
+        "official": "Tonga Kuningriik",
+        "common": "Tonga"
+      },
+      "fin": {
+        "official": "Tongan kuningaskunta",
+        "common": "Tonga"
+      },
+      "fra": {
+        "official": "Royaume des Tonga",
+        "common": "Tonga"
+      },
+      "hrv": {
+        "official": "Kraljevina Tonga",
+        "common": "Tonga"
+      },
+      "hun": {
+        "official": "Tongai Királyság",
+        "common": "Tonga"
+      },
+      "ita": {
+        "official": "Regno di Tonga",
+        "common": "Tonga"
+      },
+      "jpn": {
+        "official": "トンガ王国",
+        "common": "トンガ"
+      },
+      "kor": {
+        "official": "통가 왕국",
+        "common": "통가"
+      },
+      "nld": {
+        "official": "Koninkrijk Tonga",
+        "common": "Tonga"
+      },
+      "per": {
+        "official": "پادشاهی تونگا",
+        "common": "تونگا"
+      },
+      "pol": {
+        "official": "Królestwo Tonga",
+        "common": "Tonga"
+      },
+      "por": {
+        "official": "Reino de Tonga",
+        "common": "Tonga"
+      },
+      "rus": {
+        "official": "Королевство Тонга",
+        "common": "Тонга"
+      },
+      "slk": {
+        "official": "Tongské kráľovstvo",
+        "common": "Tonga"
+      },
+      "spa": {
+        "official": "Reino de Tonga",
+        "common": "Tonga"
+      },
+      "swe": {
+        "official": "Konungariket Tonga",
+        "common": "Tonga"
+      },
+      "urd": {
+        "official": "مملکتِ ٹونگا",
+        "common": "ٹونگا"
+      },
+      "zho": {
+        "official": "汤加王国",
+        "common": "汤加"
+      }
+    },
+    "latlng": [
+      -20,
+      -175
+    ],
+    "landlocked": false,
+    "area": 747,
+    "demonyms": {
+      "eng": {
+        "f": "Tongan",
+        "m": "Tongan"
+      },
+      "fra": {
+        "f": "Tonguienne",
+        "m": "Tonguien"
+      }
+    },
+    "flag": "🇹🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/p5YALBY2QdEzswRo7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2186665"
+    },
+    "population": 105697,
+    "gini": {
+      "2015": 37.6
+    },
+    "fifa": "TGA",
+    "car": {
+      "signs": [
+        "TO"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+13:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/to.png",
+      "svg": "https://flagcdn.com/to.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/to.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/to.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -21.13,
+        -175.2
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Poland",
+      "official": "Republic of Poland",
+      "nativeName": {
+        "pol": {
+          "official": "Rzeczpospolita Polska",
+          "common": "Polska"
+        }
+      }
+    },
+    "tld": [
+      ".pl"
+    ],
+    "cca2": "PL",
+    "ccn3": "616",
+    "cca3": "POL",
+    "cioc": "POL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "PLN": {
+        "name": "Polish złoty",
+        "symbol": "zł"
+      }
+    },
+    "idd": {
+      "root": "+4",
+      "suffixes": [
+        "8"
+      ]
+    },
+    "capital": [
+      "Warsaw"
+    ],
+    "altSpellings": [
+      "PL",
+      "Republic of Poland",
+      "Rzeczpospolita Polska"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "languages": {
+      "pol": "Polish"
+    },
+    "translations": {
+      "ara": {
+        "official": "الجمهورية البولندية",
+        "common": "بولندا"
+      },
+      "ces": {
+        "official": "Polská republika",
+        "common": "Polsko"
+      },
+      "cym": {
+        "official": "Republic of Poland",
+        "common": "Poland"
+      },
+      "deu": {
+        "official": "Republik Polen",
+        "common": "Polen"
+      },
+      "est": {
+        "official": "Poola Vabariik",
+        "common": "Poola"
+      },
+      "fin": {
+        "official": "Puolan tasavalta",
+        "common": "Puola"
+      },
+      "fra": {
+        "official": "République de Pologne",
+        "common": "Pologne"
+      },
+      "hrv": {
+        "official": "Republika Poljska",
+        "common": "Poljska"
+      },
+      "hun": {
+        "official": "Lengyel Köztársaság",
+        "common": "Lengyelország"
+      },
+      "ita": {
+        "official": "Repubblica di Polonia",
+        "common": "Polonia"
+      },
+      "jpn": {
+        "official": "ポーランド共和国",
+        "common": "ポーランド"
+      },
+      "kor": {
+        "official": "폴란드 공화국",
+        "common": "폴란드"
+      },
+      "nld": {
+        "official": "Republiek Polen",
+        "common": "Polen"
+      },
+      "per": {
+        "official": "جمهوری لهستان",
+        "common": "لهستان"
+      },
+      "pol": {
+        "official": "Rzeczpospolita Polska",
+        "common": "Polska"
+      },
+      "por": {
+        "official": "República da Polónia",
+        "common": "Polónia"
+      },
+      "rus": {
+        "official": "Республика Польша",
+        "common": "Польша"
+      },
+      "slk": {
+        "official": "Poľská republika",
+        "common": "Poľsko"
+      },
+      "spa": {
+        "official": "República de Polonia",
+        "common": "Polonia"
+      },
+      "swe": {
+        "official": "Republiken Polen",
+        "common": "Polen"
+      },
+      "urd": {
+        "official": "جمہوریہ پولینڈ",
+        "common": "پولینڈ"
+      },
+      "zho": {
+        "official": "波兰共和国",
+        "common": "波兰"
+      }
+    },
+    "latlng": [
+      52,
+      20
+    ],
+    "landlocked": false,
+    "borders": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ],
+    "area": 312679,
+    "demonyms": {
+      "eng": {
+        "f": "Polish",
+        "m": "Polish"
+      },
+      "fra": {
+        "f": "Polonaise",
+        "m": "Polonais"
+      }
+    },
+    "flag": "🇵🇱",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/gY9Xw4Sf4415P4949",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/49715"
+    },
+    "population": 37950802,
+    "gini": {
+      "2018": 30.2
+    },
+    "fifa": "POL",
+    "car": {
+      "signs": [
+        "PL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pl.png",
+      "svg": "https://flagcdn.com/pl.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/pl.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/pl.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        52.25,
+        21
+      ]
+    },
+    "postalCode": {
+      "format": "##-###",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Angola",
+      "official": "Republic of Angola",
+      "nativeName": {
+        "por": {
+          "official": "República de Angola",
+          "common": "Angola"
+        }
+      }
+    },
+    "tld": [
+      ".ao"
+    ],
+    "cca2": "AO",
+    "ccn3": "024",
+    "cca3": "AGO",
+    "cioc": "ANG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "AOA": {
+        "name": "Angolan kwanza",
+        "symbol": "Kz"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "44"
+      ]
+    },
+    "capital": [
+      "Luanda"
+    ],
+    "altSpellings": [
+      "AO",
+      "República de Angola",
+      "ʁɛpublika de an'ɡɔla"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "ara": {
+        "official": "أنغولا",
+        "common": "جمهورية أنغولا"
+      },
+      "ces": {
+        "official": "Angolská republika",
+        "common": "Angola"
+      },
+      "cym": {
+        "official": "Gweriniaeth Angola",
+        "common": "Angola"
+      },
+      "deu": {
+        "official": "Republik Angola",
+        "common": "Angola"
+      },
+      "est": {
+        "official": "Angola Vabariik",
+        "common": "Angola"
+      },
+      "fin": {
+        "official": "Angolan tasavalta",
+        "common": "Angola"
+      },
+      "fra": {
+        "official": "République d'Angola",
+        "common": "Angola"
+      },
+      "hrv": {
+        "official": "Republika Angola",
+        "common": "Angola"
+      },
+      "hun": {
+        "official": "Angola",
+        "common": "Angola"
+      },
+      "ita": {
+        "official": "Repubblica dell'Angola",
+        "common": "Angola"
+      },
+      "jpn": {
+        "official": "アンゴラ共和国",
+        "common": "アンゴラ"
+      },
+      "kor": {
+        "official": "앙골라 공화국",
+        "common": "앙골라"
+      },
+      "nld": {
+        "official": "Republiek Angola",
+        "common": "Angola"
+      },
+      "per": {
+        "official": "جمهوری آنگولا",
+        "common": "آنگولا"
+      },
+      "pol": {
+        "official": "Republika Angoli",
+        "common": "Angola"
+      },
+      "por": {
+        "official": "República de Angola",
+        "common": "Angola"
+      },
+      "rus": {
+        "official": "Республика Ангола",
+        "common": "Ангола"
+      },
+      "slk": {
+        "official": "Angolská republika",
+        "common": "Angola"
+      },
+      "spa": {
+        "official": "República de Angola",
+        "common": "Angola"
+      },
+      "swe": {
+        "official": "Republiken Angola",
+        "common": "Angola"
+      },
+      "urd": {
+        "official": "جمہوریہ انگولہ",
+        "common": "انگولہ"
+      },
+      "zho": {
+        "official": "安哥拉共和国",
+        "common": "安哥拉"
+      }
+    },
+    "latlng": [
+      -12.5,
+      18.5
+    ],
+    "landlocked": false,
+    "borders": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "area": 1246700,
+    "demonyms": {
+      "eng": {
+        "f": "Angolan",
+        "m": "Angolan"
+      },
+      "fra": {
+        "f": "Angolaise",
+        "m": "Angolais"
+      }
+    },
+    "flag": "🇦🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/q42Qbf1BmQL3fuZg9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195267"
+    },
+    "population": 32866268,
+    "gini": {
+      "2018": 51.3
+    },
+    "fifa": "ANG",
+    "car": {
+      "signs": [
+        "ANG"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ao.png",
+      "svg": "https://flagcdn.com/ao.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ao.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ao.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -8.83,
+        13.22
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Algeria",
+      "official": "People's Democratic Republic of Algeria",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية الديمقراطية الشعبية الجزائرية",
+          "common": "الجزائر"
+        }
+      }
+    },
+    "tld": [
+      ".dz",
+      "الجزائر."
+    ],
+    "cca2": "DZ",
+    "ccn3": "012",
+    "cca3": "DZA",
+    "cioc": "ALG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "DZD": {
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "13"
+      ]
+    },
+    "capital": [
+      "Algiers"
+    ],
+    "altSpellings": [
+      "DZ",
+      "Dzayer",
+      "Algérie"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "ara": {
+        "official": "الجمهورية الديمقراطية الشعبية الجزائرية",
+        "common": "الجزائر"
+      },
+      "ces": {
+        "official": "Alžírská demokratická a lidová republika",
+        "common": "Alžírsko"
+      },
+      "cym": {
+        "official": "Gweriniaeth Ddemocrataidd Pobl Algeria",
+        "common": "Algeria"
+      },
+      "deu": {
+        "official": "Demokratische Volksrepublik Algerien",
+        "common": "Algerien"
+      },
+      "est": {
+        "official": "Alžeeria Demokraatlik Rahvavabariik",
+        "common": "Alžeeria"
+      },
+      "fin": {
+        "official": "Algerian demokraattinen kansantasavalta",
+        "common": "Algeria"
+      },
+      "fra": {
+        "official": "République démocratique et populaire d'Algérie",
+        "common": "Algérie"
+      },
+      "hrv": {
+        "official": "Narodna Demokratska Republika Alžir",
+        "common": "Alžir"
+      },
+      "hun": {
+        "official": "Algériai Népi Demokratikus Köztársaság",
+        "common": "Algéria"
+      },
+      "ita": {
+        "official": "Repubblica popolare democratica di Algeria",
+        "common": "Algeria"
+      },
+      "jpn": {
+        "official": "アルジェリア人民民主共和国",
+        "common": "アルジェリア"
+      },
+      "kor": {
+        "official": "알제리 인민 민주 공화국",
+        "common": "알제리"
+      },
+      "nld": {
+        "official": "Democratische Volksrepubliek Algerije",
+        "common": "Algerije"
+      },
+      "per": {
+        "official": "جمهوری دموکراتیک خلق الجزایر",
+        "common": "الجزایر"
+      },
+      "pol": {
+        "official": "Algierska Republika Ludowo-Demokratyczna",
+        "common": "Algieria"
+      },
+      "por": {
+        "official": "República Argelina Democrática e Popular",
+        "common": "Argélia"
+      },
+      "rus": {
+        "official": "Народно-Демократическая Республика Алжир",
+        "common": "Алжир"
+      },
+      "slk": {
+        "official": "Alžírska demokratická ľudová republika",
+        "common": "Alžírsko"
+      },
+      "spa": {
+        "official": "República Argelina Democrática y Popular",
+        "common": "Argelia"
+      },
+      "swe": {
+        "official": "Demokratiska folkrepubliken Algeriet",
+        "common": "Algeriet"
+      },
+      "urd": {
+        "official": "عوامی جمہوری جمہوریہ الجزائر",
+        "common": "الجزائر"
+      },
+      "zho": {
+        "official": "阿尔及利亚人民民主共和国",
+        "common": "阿尔及利亚"
+      }
+    },
+    "latlng": [
+      28,
+      3
+    ],
+    "landlocked": false,
+    "borders": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "area": 2381741,
+    "demonyms": {
+      "eng": {
+        "f": "Algerian",
+        "m": "Algerian"
+      },
+      "fra": {
+        "f": "Algérienne",
+        "m": "Algérien"
+      }
+    },
+    "flag": "🇩🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/RsAyAfyaiNVb8DpW8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192756"
+    },
+    "population": 510713,
+    "gini": {
+      "2011": 27.6
+    },
+    "fifa": "ALG",
+    "car": {
+      "signs": [
+        "DZ"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/dz.png",
+      "svg": "https://flagcdn.com/dz.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/dz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/dz.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        36.75,
+        3.05
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Réunion",
+      "official": "Réunion Island",
+      "nativeName": {
+        "fra": {
+          "official": "Ile de la Réunion",
+          "common": "La Réunion"
+        }
+      }
+    },
+    "tld": [
+      ".re"
+    ],
+    "cca2": "RE",
+    "ccn3": "638",
+    "cca3": "REU",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "62"
+      ]
+    },
+    "capital": [
+      "Saint-Denis"
+    ],
+    "altSpellings": [
+      "RE",
+      "Reunion"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "ara": {
+        "official": "جزيرة لا ريونيون",
+        "common": "لا ريونيون"
+      },
+      "ces": {
+        "official": "Réunion",
+        "common": "Réunion"
+      },
+      "cym": {
+        "official": "Réunion Island",
+        "common": "Réunion"
+      },
+      "deu": {
+        "official": "Réunion",
+        "common": "Réunion"
+      },
+      "est": {
+        "official": "Réunioni departemang",
+        "common": "Réunion"
+      },
+      "fin": {
+        "official": "Réunion",
+        "common": "Réunion"
+      },
+      "fra": {
+        "official": "Ile de la Réunion",
+        "common": "Réunion"
+      },
+      "hrv": {
+        "official": "Réunion Island",
+        "common": "Réunion"
+      },
+      "hun": {
+        "official": "Réunion",
+        "common": "Réunion"
+      },
+      "ita": {
+        "official": "Réunion",
+        "common": "Riunione"
+      },
+      "jpn": {
+        "official": "レユニオン島",
+        "common": "レユニオン"
+      },
+      "kor": {
+        "official": "레위니옹",
+        "common": "레위니옹"
+      },
+      "nld": {
+        "official": "Réunion",
+        "common": "Réunion"
+      },
+      "per": {
+        "official": "رئونیون",
+        "common": "رئونیون"
+      },
+      "pol": {
+        "official": "Reunion",
+        "common": "Reunion"
+      },
+      "por": {
+        "official": "Ilha da Reunião",
+        "common": "Reunião"
+      },
+      "rus": {
+        "official": "Реюньон",
+        "common": "Реюньон"
+      },
+      "slk": {
+        "official": "Réunionský zámorský departmán",
+        "common": "Réunion"
+      },
+      "spa": {
+        "official": "Isla de la Reunión",
+        "common": "Reunión"
+      },
+      "swe": {
+        "official": "Réunion",
+        "common": "Réunion"
+      },
+      "urd": {
+        "official": "رے یونیوں جزیرہ",
+        "common": "رے یونیوں"
+      },
+      "zho": {
+        "official": "留尼旺岛",
+        "common": "留尼旺岛"
+      }
+    },
+    "latlng": [
+      -21.15,
+      55.5
+    ],
+    "landlocked": false,
+    "area": 2511,
+    "demonyms": {
+      "eng": {
+        "f": "Réunionese",
+        "m": "Réunionese"
+      },
+      "fra": {
+        "f": "Réunionnaise",
+        "m": "Réunionnais"
+      }
+    },
+    "flag": "🇷🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/wWpBrXsp8UHVbah29",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1785276"
+    },
+    "population": 840974,
+    "car": {
+      "signs": [
+        "F"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/re.png",
+      "svg": "https://flagcdn.com/re.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -20.88,
+        55.45
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^((97|98)(4|7|8)\\d{2})$"
+    }
+  }
+]

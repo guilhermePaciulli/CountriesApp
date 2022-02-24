@@ -10,10 +10,12 @@ class CountryDependencyInjector {
         )
     }()
     lazy var listView: UIViewController = {
-        return UIHostingController(
+        let controller = UIHostingController(
             rootView: CountryListView(
                 viewModel: viewModel
             )
         )
+        controller.title = "Countries"
+        return controller
     }()
 }

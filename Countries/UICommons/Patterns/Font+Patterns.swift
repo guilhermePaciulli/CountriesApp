@@ -9,6 +9,14 @@ extension Font {
         )
     }
 
+    static var ctySubtitle: Font {
+        .system(
+            size: 18,
+            weight: .light,
+            design: .rounded
+        )
+    }
+
     static var ctyHeadline: Font {
         .system(
             size: 18,

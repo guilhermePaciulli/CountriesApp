@@ -1,4 +1,5 @@
 import Combine
+import Foundation
 
 class CountryListViewModel: ObservableObject {
     @Published var state: State
@@ -23,12 +24,13 @@ class CountryListViewModel: ObservableObject {
                 title: "Ops...",
                 message: $0.message
             )})
+            .receive(on: RunLoop.main)
             .assign(to: \.state, on: self)
             .store(in: &subscriptions)
     }
 
-    func didTapAt(Country: Country) {
-        coordinator?.goToCountryDetail(selectedCountry: Country)
+    func didTapAt(country: Country) {
+        coordinator?.goToCountryDetail(selectedCountry: country)
     }
 
     enum State {
